@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "clicker-react-app-c11-me",
+    "public": "clicker-app-react-me",
     "ignore": [
       "firebase.json",
       "**/.*",
